@@ -17,7 +17,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://inidigodavid.github.io/recipe_app)
+[Live Demo Link](https://recipe-app-add-david.herokuapp.com/)
 
 
 ## Getting Started
@@ -58,6 +58,9 @@ To get a local copy up and running follow these simple example steps.
 ### Testing
 
     rspec --format documentation
+
+### Deployment
+    Heroku
 
 ## Authors
 
